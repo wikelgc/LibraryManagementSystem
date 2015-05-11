@@ -1,0 +1,15 @@
+E:\沙场秋点兵\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe
+E:\沙场秋点兵\图书管理系统\图书管理系统\bin\Debug\图书管理系统.pdb
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.frmLogin.resources
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.exe
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.frmRegister.resources
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.frmModifyPwd.resources
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.frmAdmin.resources
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.frmAddBook.resources
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.frmUser.resources
+E:\沙场秋点兵\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.frmLibraryRecord.resources
